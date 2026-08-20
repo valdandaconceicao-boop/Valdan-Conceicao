@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Estudo de Interface Web para Restaurante
 
-# Run and deploy your AI Studio app
+Projeto de estudo de interface web desenvolvido para praticar construção de telas, organização de componentes e experiência do usuário em uma aplicação moderna.
 
-This contains everything you need to run your app locally.
+## Visão geral
 
-View your app in AI Studio: https://ai.studio/apps/drive/1WPGM-Qn1GJsEcJCUwDJv_fxfEEUImQv2
+O projeto simula uma apresentação digital para um restaurante, com foco em organização visual, navegação clara, responsividade e componentes reutilizáveis. O objetivo é demonstrar a evolução prática em desenvolvimento front-end.
 
-## Run Locally
+## O que foi praticado
 
-**Prerequisites:**  Node.js
+- Estruturação de uma aplicação web com Vite.
+- Criação e organização de componentes em React.
+- Uso de TypeScript para tipagem e manutenção do código.
+- Organização de dados e constantes da aplicação.
+- Construção de interface responsiva.
+- Documentação do processo e das decisões de implementação.
 
+## Tecnologias
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+`TypeScript` `React` `Vite` `HTML` `CSS`
+
+## Como executar localmente
+
+```bash
+npm install
+npm run dev
+```
+
+Depois, abra no navegador o endereço local informado pelo Vite.
+
+Se o projeto utilizar recursos externos ou variáveis de ambiente, configure-os localmente em um arquivo `.env.local` e nunca publique chaves ou tokens no repositório.
+
+## Escopo e transparência
+
+Este é um estudo de evolução profissional e não representa um site oficial ou um contrato com o estabelecimento utilizado como referência visual.
+
+## Próximas melhorias
+
+- Publicar uma demonstração on-line sem dados sensíveis.
+- Adicionar screenshots da interface.
+- Documentar decisões de acessibilidade e responsividade.
+- Adicionar validação e testes dos componentes principais.
+
+## Contato
+
+Para projetos de interface, desenvolvimento web ou automação, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/valdan-da-concei%C3%A7%C3%A3o-de-fran%C3%A7a/).
